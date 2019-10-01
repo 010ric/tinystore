@@ -1,4 +1,4 @@
-#Small exercise from a university course @TUM (Implementation of main memory database systems. 
+# Small exercise from a university course @TUM (Implementation of main memory database systems. 
 (Programming language used was C++ with C++17)
 
 In this test, you should implement the storage backend *tinystore* for a relation with three attributes
